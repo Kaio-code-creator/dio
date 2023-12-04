@@ -26,6 +26,11 @@ function calcularNivel(vitorias, derrotas) {
 const vitoriasUsuario = parseInt(prompt("Digite a quantidade de vitórias: "));
 const derrotasUsuario = parseInt(prompt("Digite a quantidade de derrotas: "));
 
-// Chama a função e exibe o resultado
-const resultado = calcularNivel(vitoriasUsuario, derrotasUsuario);
-console.log(`O Herói tem um saldo de ${resultado.saldoVitorias} está no nível de ${resultado.nivel}`);
+// Validação de entrada
+if (isNaN(vitoriasUsuario) || isNaN(derrotasUsuario)) {
+    console.error("Por favor, insira números válidos para vitórias e derrotas.");
+} else {
+    // Chama a função e exibe o resultado
+    const resultado = calcularNivel(vitoriasUsuario, derrotasUsuario);
+    console.log(`O Herói tem um saldo de ${resultado.saldoVitorias} está no nível de ${resultado.nivel}`);
+}
