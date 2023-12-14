@@ -74,9 +74,35 @@ namespace DesafioFundamentos.Models
         private static decimal LerDecimalDoUsuario()
         {
             decimal valor;
-            while (!decimal.TryParse(Console.ReadLine(), out valor))
+            while (true)
             {
-                Console.WriteLine("Por favor, insira um valor válido.");
+                try
+                {
+                    valor = decimal.Parse(Console.ReadLine());
+                    break;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Por favor, insira um valor válido.");
+                }
+            }
+            return valor;
+        }
+
+        private static int LerInteiroDoUsuario()
+        {
+            int valor;
+            while (true)
+            {
+                try
+                {
+                    valor = int.Parse(Console.ReadLine());
+                    break;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Por favor, insira um valor válido.");
+                }
             }
             return valor;
         }
@@ -102,8 +128,8 @@ namespace DesafioFundamentos.Models
             return Regex.IsMatch(placa, pattern);
         }
 
-       public void RemoverVeiculo()
-{
+        public void RemoverVeiculo()
+        {
             if (Veiculos.Any())
             {
                 Console.WriteLine("Digite a placa do veículo que deseja remover:");
@@ -113,9 +139,7 @@ namespace DesafioFundamentos.Models
 
                 if (veiculo != null)
                 {
-                    DateTime horaSaida = DateTime.Now; // Obtém o horário atual automaticamente
-
-                    decimal valorTotal = CalcularValorTotal(veiculo.HoraEntrada, horaSaida);
+                    decimal valorTotal = CalcularValorTotal(veiculo.HoraEntrada, DateTime.Now);
 
                     Veiculos.Remove(veiculo);
 
@@ -130,17 +154,6 @@ namespace DesafioFundamentos.Models
             {
                 Console.WriteLine("Não há veículos estacionados.");
             }
-        }
-
-
-        private DateTime LerHorarioDoUsuario()
-        {
-            DateTime horaSaida;
-            while (!DateTime.TryParseExact(Console.ReadLine(), "HH:mm", null, System.Globalization.DateTimeStyles.None, out horaSaida))
-            {
-                Console.WriteLine("Por favor, insira um horário válido no formato HH:mm.");
-            }
-            return horaSaida;
         }
 
         private decimal CalcularValorTotal(DateTime horaEntrada, DateTime horaSaida)
