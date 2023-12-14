@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/amarofilho/.nuget/packages/": {}
+    "C:\\Users\\Kaio Alves\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amarofilho/Desafio-DIO-CSharp/Estaciomento/Estaciomento/Estacionamento.csproj",
+      "projectUniqueName": "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj",
       "projectName": "Estacionamento",
-      "projectPath": "/Users/amarofilho/Desafio-DIO-CSharp/Estaciomento/Estaciomento/Estacionamento.csproj",
-      "packagesPath": "/Users/amarofilho/.nuget/packages/",
-      "outputPath": "/Users/amarofilho/Desafio-DIO-CSharp/Estaciomento/Estaciomento/obj/",
+      "projectPath": "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj",
+      "packagesPath": "C:\\Users\\Kaio Alves\\.nuget\\packages\\",
+      "outputPath": "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/amarofilho/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Kaio Alves\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
