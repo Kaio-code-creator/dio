@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj": {}
+    "D:\\kaio\\Minha vida\\Programação\\dio\\testedio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj": {}
   },
   "projects": {
-    "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj": {
+    "D:\\kaio\\Minha vida\\Programação\\dio\\testedio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj",
+        "projectUniqueName": "D:\\kaio\\Minha vida\\Programação\\dio\\testedio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj",
+        "projectPath": "D:\\kaio\\Minha vida\\Programação\\dio\\testedio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\Estacionamento.csproj",
         "packagesPath": "C:\\Users\\Kaio Alves\\.nuget\\packages\\",
-        "outputPath": "D:\\kaio\\Minha vida\\Programação\\dio\\teste dio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\obj\\",
+        "outputPath": "D:\\kaio\\Minha vida\\Programação\\dio\\testedio\\Desafio-DIO-CSharp-main\\Desafio-DIO-CSharp-main\\Estaciomento\\Estaciomento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaio Alves\\AppData\\Roaming\\NuGet\\NuGet.Config"
