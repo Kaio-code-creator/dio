@@ -28,3 +28,17 @@ C:/Users/Camilla/source/repos/Estaciomento/Estaciomento/obj/Debug/net7.0/ref/Est
 /Users/amarofilho/Desafio-DIO-CSharp/Estaciomento/Estaciomento/bin/Debug/net7.0/Estacionamento.pdb
 /Users/amarofilho/Desafio-DIO-CSharp/Estaciomento/Estaciomento/obj/Debug/net7.0/Estacionamento.genruntimeconfig.cache
 /Users/amarofilho/Desafio-DIO-CSharp/Estaciomento/Estaciomento/obj/Debug/net7.0/ref/Estacionamento.dll
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\bin\Debug\net7.0\Estacionamento.exe
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\bin\Debug\net7.0\Estacionamento.deps.json
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\bin\Debug\net7.0\Estacionamento.runtimeconfig.json
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\bin\Debug\net7.0\Estacionamento.dll
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\bin\Debug\net7.0\Estacionamento.pdb
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.AssemblyInfoInputs.cache
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.AssemblyInfo.cs
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.dll
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\refint\Estacionamento.dll
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.pdb
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\Estacionamento.genruntimeconfig.cache
+D:\kaio\Minha vida\Programação\dio\teste\Desafio-DIO-CSharp-main\Desafio-DIO-CSharp-main\Estaciomento\Estaciomento\obj\Debug\net7.0\ref\Estacionamento.dll
