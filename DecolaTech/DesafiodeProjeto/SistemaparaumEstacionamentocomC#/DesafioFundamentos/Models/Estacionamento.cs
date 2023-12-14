@@ -102,8 +102,8 @@ namespace DesafioFundamentos.Models
             return Regex.IsMatch(placa, pattern);
         }
 
-        public void RemoverVeiculo()
-        {
+       public void RemoverVeiculo()
+{
             if (Veiculos.Any())
             {
                 Console.WriteLine("Digite a placa do veículo que deseja remover:");
@@ -113,8 +113,7 @@ namespace DesafioFundamentos.Models
 
                 if (veiculo != null)
                 {
-                    Console.WriteLine($"Digite o horário de saída no formato HH:mm:");
-                    DateTime horaSaida = LerHorarioDoUsuario();
+                    DateTime horaSaida = DateTime.Now; // Obtém o horário atual automaticamente
 
                     decimal valorTotal = CalcularValorTotal(veiculo.HoraEntrada, horaSaida);
 
@@ -132,6 +131,7 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine("Não há veículos estacionados.");
             }
         }
+
 
         private DateTime LerHorarioDoUsuario()
         {
