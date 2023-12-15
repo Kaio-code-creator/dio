@@ -1,0 +1,14 @@
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\kaio\Minha vida\Programação\dio\Projeto-DIO\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
