@@ -6,8 +6,8 @@ const acaoEscolhida = gets();
 
 // Verifica a ação escolhida e exibir a mensagem correspondente:
 while (acaoEscolhida !== "Atacar" && acaoEscolhida !== "Fugir") {
-    console.log("Tente novamente");
-    acaoEscolhida = gets();
+  console.log("Tente novamente");
+  acaoEscolhida = gets();
 }
 
 // Exibe a mensagem correspondente:
