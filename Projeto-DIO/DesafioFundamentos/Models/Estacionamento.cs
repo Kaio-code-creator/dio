@@ -1,23 +1,51 @@
+using System.IO;
+using AdicionarPlacaVeiculo;
+
 namespace DesafioFundamentos.Models
 {
     public class Estacionamento
     {
-        private decimal precoInicial = 0;
-        private decimal precoPorHora = 0;
-        private List<string> veiculos = new List<string>();
+        private readonly List<string> placasValidas;
 
         public Estacionamento(decimal precoInicial, decimal precoPorHora)
         {
             this.precoInicial = precoInicial;
             this.precoPorHora = precoPorHora;
+
+            this.placasValidas = new List<string>();
+
+            // Carrega a lista de placas válidas do arquivo externo
+            using (StreamReader reader = File.OpenText("placas-validas.cs"))
+            {
+                while (!reader.EndOfStream)
+                {
+                    this.placasValidas.Add(reader.ReadLine());
+                }
+            }
         }
 
-        public void AdicionarVeiculo()
-        {
-            // TODO: Pedir para o usuário digitar uma placa (ReadLine) e adicionar na lista "veiculos"
-            // *IMPLEMENTE AQUI*
-            Console.WriteLine("Digite a placa do veículo para estacionar:");
-        }
+        public string AdicionarVeiculo()
+{
+    // TODO: Pedir para o usuário digitar uma placa (ReadLine) e adicionar na lista "veiculos"
+    // *IMPLEMENTE AQUI*
+    Console.WriteLine("Digite a placa do veículo para estacionar:");
+    string placa = Console.ReadLine();
+
+    // Valida a placa
+    if (PlacaValida(placa))
+    {
+        // Adiciona a placa na lista de veículos
+        this.veiculos.Add(placa);
+
+        // Retorna a placa do veículo
+        return placa;
+    }
+    else
+    {
+        // Placa inválida
+        return null;
+    }
+}
 
         public void RemoverVeiculo()
         {
