@@ -1,4 +1,0 @@
-D:\kaio\Minha vida\Programação\dio\DecolaTech\DesafiodeProjeto\Teste-projeto\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
-D:\kaio\Minha vida\Programação\dio\DecolaTech\DesafiodeProjeto\Teste-projeto\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
-D:\kaio\Minha vida\Programação\dio\DecolaTech\DesafiodeProjeto\Teste-projeto\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
-D:\kaio\Minha vida\Programação\dio\DecolaTech\DesafiodeProjeto\Teste-projeto\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
