@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projeto-DIO", "Projeto-DIO", "{D67B168F-AF89-48C5-87C4-273BC2C80BE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "Projeto-DIO\DesafioFundamentos\DesafioFundamentos.csproj", "{8F9EA7F1-5485-4BD0-8C71-7BA49A2F7F4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecolaTech", "DecolaTech", "{34F43F5E-3F98-4039-990A-7B0EDA95B870}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesafiodeProjeto", "DesafiodeProjeto", "{1D8F59CD-ED9D-41B8-88EC-CBF92069CEF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaparaumEstacionamentocomC#", "SistemaparaumEstacionamentocomC#", "{D9587747-4BFD-4935-B3DB-4C7A3D56315E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "DecolaTech\DesafiodeProjeto\SistemaparaumEstacionamentocomC#\DesafioFundamentos\DesafioFundamentos.csproj", "{38095709-36AD-44FC-9C38-179CD88D80D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F9EA7F1-5485-4BD0-8C71-7BA49A2F7F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9EA7F1-5485-4BD0-8C71-7BA49A2F7F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9EA7F1-5485-4BD0-8C71-7BA49A2F7F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9EA7F1-5485-4BD0-8C71-7BA49A2F7F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38095709-36AD-44FC-9C38-179CD88D80D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38095709-36AD-44FC-9C38-179CD88D80D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38095709-36AD-44FC-9C38-179CD88D80D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38095709-36AD-44FC-9C38-179CD88D80D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F9EA7F1-5485-4BD0-8C71-7BA49A2F7F4F} = {D67B168F-AF89-48C5-87C4-273BC2C80BE0}
+		{1D8F59CD-ED9D-41B8-88EC-CBF92069CEF4} = {34F43F5E-3F98-4039-990A-7B0EDA95B870}
+		{D9587747-4BFD-4935-B3DB-4C7A3D56315E} = {1D8F59CD-ED9D-41B8-88EC-CBF92069CEF4}
+		{38095709-36AD-44FC-9C38-179CD88D80D1} = {D9587747-4BFD-4935-B3DB-4C7A3D56315E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F2331C-9F25-4B22-BCAF-08389C4C5283}
+	EndGlobalSection
+EndGlobal
